@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\VoiceAssistantFPP\\Plugins\\ConvaiOVRLipSync\\Source\\OVRLipSyncConvai\\OVRLipSyncConvai.Build.cs",
+		"D:\\Unreal Projects\\VoiceAssistantFPP\\Plugins\\ConvaiOVRLipSync\\Source\\OVRLipSyncEditor\\OVRLipSyncEditor.Build.cs",
+		"D:\\Unreal Projects\\VoiceAssistantFPP\\Plugins\\ConvaiOVRLipSync\\Source\\OVRLipSync\\OVRLipSync.Build.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
